@@ -194,4 +194,17 @@ const charts = [
     'scoreId': 1,
     'url': 'https://mfv2.sakura.ne.jp/do/_Cah-m/?id=krzm_kataomoi',
   },
+  {
+    'level': '3',
+    'title': '未来の歌',
+    'difName': 'glr@j',
+    'artist': 'malo',
+    'maker': 'izkdic',
+    'bpm': 132,
+    'toolDif': 3.57,
+    'noteNum': 365,
+    'duration': '3:12',
+    'scoreId': 1,
+    'url': 'https://vorhandensein.sakura.ne.jp/danoni/100k_mirai/',
+  },
 ]
