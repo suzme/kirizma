@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>51kkey難易度表</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  </head>
+  <body>
+    <h1>51kkey難易度表</h1>
+    <p id="message">
+      このページのURLを共有すると現在のクリア状況を公開できます。
+    </p>
+    <div id="app" v-cloak>
+      <table>
+        <tr><th>⌨</th><th>曲名 [譜面名]</th><th>譜面作者</th><th>アーティスト</th><th>BPM</th><th>ツール値</th><th>ノート数</th><th>曲時間</th></tr>
+        <tr v-for="chart of charts"
+          v-bind:style="{ 'background-color': chart.lampColor }"
+          v-bind:class="{ 'levelBorder': chart.levelBorder }">
+          <td>⌨{{ chart.level }}</td>
+          <td><a v-bind:href="chart.url">{{ chart.title }} [{{ chart.difName }}]</a></td>
+          <td>{{ chart.maker }}</td>
+          <td>{{ chart.artist }}</td>
+          <td class="number">{{ chart.bpm }}</td>
+          <td class="number">{{ chart.toolDif.toFixed(2) }}</td>
+          <td class="number">{{ chart.noteNum }}</td>
+          <td class="number">{{ chart.duration }}</td>
+        </tr>
+      </table>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+    <script src="./compress.js"></script>
+    <script src="./51kkey.js"></script>
+    <script src="./share.js"></script>
+  </body>
+</html>

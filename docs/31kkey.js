@@ -1,0 +1,28 @@
+const charts = [
+  {
+    'level': '4',
+    'title': 'Ikaros feat. Jenga',
+    'difName': 'Special',
+    'artist': 'ETIA.',
+    'maker': 'すずめ',
+    'bpm': 175,
+    'toolDif': 5.46,
+    'noteNum': 340,
+    'duration': '2:09',
+    'scoreId': 0,
+    'url': '',
+  },
+  {
+    'level': '8',
+    'title': '太陽系デスコ',
+    'difName': 'Extreme',
+    'artist': 'ナユタン星人',
+    'maker': 'SKB',
+    'bpm': 150,
+    'toolDif': 15.62,
+    'noteNum': 1039,
+    'duration': '3:27',
+    'scoreId': 0,
+    'url': '',
+  },
+]
