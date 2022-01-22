@@ -9,7 +9,7 @@ const charts = [
     'toolDif': 3.47,
     'noteNum': 199,
     'duration': '1:31',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'https://suzume.kirara.st/shining_star_27k/',
   },
   {
@@ -22,7 +22,7 @@ const charts = [
     'toolDif': 1.63,
     'noteNum': 128,
     'duration': '1:40',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_08.html',
   },
   {
@@ -35,7 +35,7 @@ const charts = [
     'toolDif': 3.95,
     'noteNum': 235,
     'duration': '1:34',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'https://suzume.kirara.st/12345_27k/',
   },
   {
@@ -48,7 +48,7 @@ const charts = [
     'toolDif': 4.92,
     'noteNum': 294,
     'duration': '1:45',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_09.html',
   },
   {
@@ -61,7 +61,7 @@ const charts = [
     'toolDif': 4.33,
     'noteNum': 311,
     'duration': '2:08',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_04.html',
   },
   {
@@ -74,7 +74,7 @@ const charts = [
     'toolDif': 4.05,
     'noteNum': 281,
     'duration': '2:06',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'https://mfv2.sakura.ne.jp/do/_Cah-m/?id=krzm_sakura',
   },
   {
@@ -87,7 +87,7 @@ const charts = [
     'toolDif': 3.71,
     'noteNum': 348,
     'duration': '3:22',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_10.html',
   },
   {
@@ -100,7 +100,7 @@ const charts = [
     'toolDif': 4.29,
     'noteNum': 277,
     'duration': '1:43',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_01.html',
   },
   {
@@ -113,7 +113,7 @@ const charts = [
     'toolDif': 5.74,
     'noteNum': 374,
     'duration': '2:02',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_05.html',
   },
   {
@@ -126,7 +126,7 @@ const charts = [
     'toolDif': 6.38,
     'noteNum': 467,
     'duration': '2:20',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'http://pw25.g2.xrea.com/tote/',
   },
   {
@@ -139,7 +139,7 @@ const charts = [
     'toolDif': 4.66,
     'noteNum': 309,
     'duration': '2:05',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_06.html',
   },
   {
@@ -152,7 +152,7 @@ const charts = [
     'toolDif': 7.03,
     'noteNum': 482,
     'duration': '2:13',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_02.html',
   },
   {
@@ -165,7 +165,7 @@ const charts = [
     'toolDif': 11.11,
     'noteNum': 528,
     'duration': '1:58',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_07.html',
   },
   {
@@ -178,7 +178,7 @@ const charts = [
     'toolDif': 7.19,
     'noteNum': 438,
     'duration': '2:09',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_03.html',
   },
   {
@@ -191,7 +191,7 @@ const charts = [
     'toolDif': 19.70,
     'noteNum': 1084,
     'duration': '3:01',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'https://mfv2.sakura.ne.jp/do/_Cah-m/?id=krzm_kataomoi',
   },
 ]

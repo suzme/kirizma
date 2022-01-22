@@ -9,7 +9,7 @@ const charts = [
     'toolDif': 5.46,
     'noteNum': 340,
     'duration': '2:09',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'https://suzume.kirara.st/ikaros_31k/',
   },
 ]

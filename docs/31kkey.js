@@ -22,7 +22,7 @@ const charts = [
     'toolDif': 15.62,
     'noteNum': 1039,
     'duration': '3:27',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'https://superkuppabros.sakura.ne.jp/hp/danoni/danoni/solar_disco.html',
   },
 ]
