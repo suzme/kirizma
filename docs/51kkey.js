@@ -10,6 +10,6 @@ const charts = [
     'noteNum': 340,
     'duration': '2:09',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://suzume.kirara.st/ikaros_31k/',
   },
 ]

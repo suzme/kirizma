@@ -10,7 +10,7 @@ const charts = [
     'noteNum': 340,
     'duration': '2:09',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://suzume.kirara.st/ikaros_31k/',
   },
   {
     'level': '8',
@@ -23,6 +23,6 @@ const charts = [
     'noteNum': 1039,
     'duration': '3:27',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://superkuppabros.sakura.ne.jp/hp/danoni/danoni/solar_disco.html',
   },
 ]

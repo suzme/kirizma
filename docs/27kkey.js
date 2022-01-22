@@ -10,7 +10,7 @@ const charts = [
     'noteNum': 32,
     'duration': '1:10',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://mfv2.sakura.ne.jp/do/main/?id=kimigayo',
   },
   {
     'level': '3',
@@ -23,7 +23,7 @@ const charts = [
     'noteNum': 199,
     'duration': '1:31',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://suzume.kirara.st/shining_star_27k/',
   },
   {
     'level': '3',
@@ -36,7 +36,7 @@ const charts = [
     'noteNum': 128,
     'duration': '1:40',
     'scoreId': 0,
-    'url': '',
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_08.html',
   },
   {
     'level': '3',
@@ -49,7 +49,7 @@ const charts = [
     'noteNum': 365,
     'duration': '3:12',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://vorhandensein.sakura.ne.jp/danoni/100k_mirai/',
   },
   {
     'level': '4',
@@ -62,7 +62,7 @@ const charts = [
     'noteNum': 235,
     'duration': '1:34',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://suzume.kirara.st/12345_27k/',
   },
   {
     'level': '4',
@@ -75,7 +75,7 @@ const charts = [
     'noteNum': 294,
     'duration': '1:45',
     'scoreId': 0,
-    'url': '',
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_09.html',
   },
   {
     'level': '4',
@@ -88,7 +88,7 @@ const charts = [
     'noteNum': 311,
     'duration': '2:08',
     'scoreId': 0,
-    'url': '',
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_04.html',
   },
   {
     'level': '4',
@@ -101,7 +101,7 @@ const charts = [
     'noteNum': 281,
     'duration': '2:06',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://mfv2.sakura.ne.jp/do/_Cah-m/?id=krzm_sakura',
   },
   {
     'level': '4',
@@ -114,7 +114,7 @@ const charts = [
     'noteNum': 485,
     'duration': '3:22',
     'scoreId': 0,
-    'url': '',
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_10.html',
   },
   {
     'level': '4',
@@ -127,7 +127,7 @@ const charts = [
     'noteNum': 277,
     'duration': '1:43',
     'scoreId': 0,
-    'url': '',
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_01.html',
   },
   {
     'level': '5',
@@ -140,7 +140,7 @@ const charts = [
     'noteNum': 374,
     'duration': '2:02',
     'scoreId': 0,
-    'url': '',
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_05.html',
   },
   {
     'level': '5',
@@ -153,7 +153,7 @@ const charts = [
     'noteNum': 506,
     'duration': '2:26',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://mfv2.sakura.ne.jp/do/main/?id=itibuKoe',
   },
   {
     'level': '6',
@@ -166,7 +166,7 @@ const charts = [
     'noteNum': 467,
     'duration': '2:20',
     'scoreId': 0,
-    'url': '',
+    'url': 'http://pw25.g2.xrea.com/tote/',
   },
   {
     'level': '6',
@@ -179,7 +179,7 @@ const charts = [
     'noteNum': 309,
     'duration': '2:05',
     'scoreId': 0,
-    'url': '',
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_06.html',
   },
   {
     'level': '6',
@@ -192,7 +192,7 @@ const charts = [
     'noteNum': 482,
     'duration': '2:13',
     'scoreId': 0,
-    'url': '',
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_02.html',
   },
   {
     'level': '7',
@@ -205,7 +205,7 @@ const charts = [
     'noteNum': 733,
     'duration': '3:27',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://superkuppabros.sakura.ne.jp/hp/danoni/danoni/solar_disco.html',
   },
   {
     'level': '9',
@@ -218,7 +218,7 @@ const charts = [
     'noteNum': 610,
     'duration': '2:46',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://chipstar64.sakura.ne.jp/danoni/kirizma_CW.html',
   },
   {
     'level': '9',
@@ -231,7 +231,7 @@ const charts = [
     'noteNum': 528,
     'duration': '1:58',
     'scoreId': 0,
-    'url': '',
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_07.html',
   },
   {
     'level': '9',
@@ -244,7 +244,7 @@ const charts = [
     'noteNum': 438,
     'duration': '2:09',
     'scoreId': 0,
-    'url': '',
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_03.html',
   },
   {
     'level': '10',
@@ -257,6 +257,6 @@ const charts = [
     'noteNum': 1084,
     'duration': '3:01',
     'scoreId': 0,
-    'url': '',
+    'url': 'https://mfv2.sakura.ne.jp/do/_Cah-m/?id=krzm_kataomoi',
   },
 ]
