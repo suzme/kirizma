@@ -236,7 +236,7 @@ const charts = [
   {
     'level': '6',
     'title': 'Trick or Treat?',
-    'difName': 'Special',
+    'difName': 'r^[d\'.',
     'artist': 'Lime feat.巡音ルカ',
     'maker': 'すずめ',
     'bpm': 140,
