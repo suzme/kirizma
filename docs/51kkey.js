@@ -1,6 +1,6 @@
 const charts = [
   {
-    'level': '4',
+    'level': '5',
     'title': 'Ikaros feat. Jenga',
     'difName': 'r^[d\'.',
     'artist': 'ETIA.',
@@ -13,7 +13,7 @@ const charts = [
     'url': 'https://suzume.kirara.st/ikaros_31k/',
   },
   {
-    'level': '3',
+    'level': '4',
     'title': 'Keep on lovin\' you',
     'difName': 'ハード',
     'artist': 'KURi-ZiLL, 中山光',

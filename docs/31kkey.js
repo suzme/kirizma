@@ -1,6 +1,6 @@
 const charts = [
   {
-    'level': '4',
+    'level': '5',
     'title': 'Ikaros feat. Jenga',
     'difName': 'Special',
     'artist': 'ETIA.',
@@ -26,7 +26,7 @@ const charts = [
     'url': 'https://superkuppabros.sakura.ne.jp/hp/danoni/danoni/solar_disco.html',
   },
   {
-    'level': '3',
+    'level': '4',
     'title': 'Keep on lovin\' you',
     'difName': 'Hard',
     'artist': 'KURi-ZiLL, 中山光',
