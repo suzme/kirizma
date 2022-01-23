@@ -285,4 +285,17 @@ const charts = [
     'scoreId': 1,
     'url': 'https://vorhandensein.sakura.ne.jp/danoni/055k_yumerockets/',
   },
+  {
+    'level': '6',
+    'title': 'Trick or Treat?',
+    'difName': 'Special',
+    'artist': 'Lime feat.巡音ルカ',
+    'maker': 'すずめ',
+    'bpm': 140,
+    'toolDif': 6.24,
+    'noteNum': 312,
+    'duration': '1:43',
+    'scoreId': 0,
+    'url': 'https://suzume.kirara.st/trick_or_treat_27k/',
+  },
 ]
