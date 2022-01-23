@@ -130,7 +130,7 @@ const charts = [
     'url': 'http://pw25.g2.xrea.com/tote/',
   },
   {
-    'level': '6',
+    'level': '7',
     'title': 'リバティ・ライト',
     'difName': 'ALTERNATIVE',
     'artist': 'ファート(vo.冬乃桜)',
@@ -143,7 +143,7 @@ const charts = [
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_06.html',
   },
   {
-    'level': '6',
+    'level': '5',
     'title': '塩ゴリラ',
     'difName': 'ALTERNATIVE',
     'artist': ' ユーフルカ×魔王魂×こんとどぅふぇ',
