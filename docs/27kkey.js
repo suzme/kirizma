@@ -298,4 +298,17 @@ const charts = [
     'scoreId': 0,
     'url': 'https://suzume.kirara.st/trick_or_treat_27k/',
   },
+  {
+    'level': '3',
+    'title': 'ひとつぶかたおもい',
+    'difName': 'Kirizma',
+    'artist': '曲：すとり　詞：ゆきはね',
+    'maker': 'izkdic',
+    'bpm': 155,
+    'toolDif': 4.65,
+    'noteNum': 469,
+    'duration': '3:31',
+    'scoreId': 0,
+    'url': 'https://vorhandensein.sakura.ne.jp/danoni/146k_hitotsubu/',
+  },
 ]
