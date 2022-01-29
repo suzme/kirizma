@@ -311,4 +311,17 @@ const charts = [
     'scoreId': 0,
     'url': 'https://vorhandensein.sakura.ne.jp/danoni/146k_hitotsubu/',
   },
+  {
+    'level': '5',
+    'title': '1％の革命前夜',
+    'difName': 'REGULAR',
+    'artist': '龍崎一(from Losstime Life)',
+    'maker': 'decresc.',
+    'bpm': 138,
+    'toolDif': 4.31,
+    'noteNum': 316,
+    'duration': '1:59',
+    'scoreId': 0,
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_03.html',
+  },
 ]
