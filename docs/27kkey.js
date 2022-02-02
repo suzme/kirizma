@@ -263,7 +263,7 @@ const charts = [
     'level': '3',
     'title': 'ユメロケッツ',
     'difName': 'Yume',
-    'artist': '匿名希望の東京都在住(杏あめ氏)',
+    'artist': '匿名希望の東京都在住',
     'maker': 'izkdic',
     'bpm': 130,
     'toolDif': 2.67,

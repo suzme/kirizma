@@ -224,7 +224,7 @@ const charts = [
     'level': '9',
     'title': 'ユメロケッツ',
     'difName': ':@yd@z',
-    'artist': '匿名希望の東京都在住(杏あめ氏)',
+    'artist': '匿名希望の東京都在住',
     'maker': 'izkdic',
     'bpm': 130,
     'toolDif': 11.39,
