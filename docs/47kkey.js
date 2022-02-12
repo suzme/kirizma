@@ -243,7 +243,7 @@ const charts = [
     'toolDif': 6.10,
     'noteNum': 312,
     'duration': '1:43',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'https://suzume.kirara.st/trick_or_treat_27k/',
   },
   {
@@ -282,7 +282,7 @@ const charts = [
     'toolDif': 0.27,
     'noteNum': 32,
     'duration': '1:10',
-    'scoreId': 0,
+    'scoreId': 1,
     'url': 'https://mfv2.sakura.ne.jp/do/main/?id=kimigayo',
   },
   {
