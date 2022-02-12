@@ -270,7 +270,7 @@ const charts = [
     'noteNum': 316,
     'duration': '1:59',
     'scoreId': 1,
-    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_03.html',
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_11.html',
   },
   {
     'level': '1',
