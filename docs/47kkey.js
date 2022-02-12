@@ -298,7 +298,7 @@ const charts = [
     'scoreId': 1,
     'url': 'https://mfv2.sakura.ne.jp/do/main/?id=itibuKoe',
   },  {
-    'level': '4',
+    'level': '5',
     'title': '魔神',
     'difName': 'ALTERNATIVE',
     'artist': '403',

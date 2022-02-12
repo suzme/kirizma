@@ -325,7 +325,7 @@ const charts = [
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_11.html',
   },
   {
-    'level': '4',
+    'level': '5',
     'title': '魔神',
     'difName': 'REGULAR',
     'artist': '403',
