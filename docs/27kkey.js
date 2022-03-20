@@ -247,7 +247,7 @@ const charts = [
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_03.html',
   },
   {
-    'level': '10',
+    'level': '12',
     'title': '片想いサンバ',
     'difName': 'Kirizma',
     'artist': 'オワタP',
