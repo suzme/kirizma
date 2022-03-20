@@ -336,4 +336,17 @@ const charts = [
     'scoreId': 1,
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_14.html',
   },
+  {
+    'level': '9',
+    'title': 'アンチクロロベンゼン',
+    'difName': 'Special(かな)',
+    'artist': 'ガルナ(オワタＰ)',
+    'maker': 'SKB',
+    'bpm': 132,
+    'toolDif': 16.41,
+    'noteNum': 1068,
+    'duration': '3:20',
+    'scoreId': 1,
+    'url': 'https://superkuppabros.sakura.ne.jp/hp/danoni/danoni/anti_c6h4cl2.html',
+  },
 ]
