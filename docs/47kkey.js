@@ -337,7 +337,7 @@ const charts = [
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_14.html',
   },
   {
-    'level': '9',
+    'level': '10',
     'title': 'アンチクロロベンゼン',
     'difName': 'Special(かな)',
     'artist': 'ガルナ(オワタＰ)',
