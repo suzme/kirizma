@@ -5,8 +5,6 @@ const keymode = location.href.replace(/^.*\/(.*?)(_share)?\.html$/,'$1')
 // クリアランプを保存するlocalStorageのキー
 const storageKey = 'lamps-' + keymode
 
-console.log(storageKey)
-
 // クリアランプの色
 const lampColors = ['#dddddd', '#ccffcc', '#ffffcc', '#ffcccc', '#ffffff', '#ccccff']
 
