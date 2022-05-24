@@ -221,7 +221,7 @@ const charts = [
     'url': 'https://vorhandensein.sakura.ne.jp/danoni/055k_yumerockets/',
   },
   {
-    'level': '9',
+    'level': '10',
     'title': 'ユメロケッツ',
     'difName': ':@yd@z',
     'artist': '匿名希望の東京都在住',
