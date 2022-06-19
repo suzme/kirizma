@@ -419,7 +419,7 @@ const charts = [
   {
     'level': '9',
     'title': '猫猫的宇宙論',
-    'difName': 'かな(47k)',
+    'difName': 'ベリーハード',
     'artist': 'ナユタン星人',
     'maker': 'ぷろろーぐ',
     'bpm': 134,

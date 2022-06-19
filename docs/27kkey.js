@@ -459,7 +459,7 @@ const charts = [
   {
     'level': '9',
     'title': '猫猫的宇宙論',
-    'difName': 'Romaji(27k)',
+    'difName': 'Very Hard',
     'artist': 'ナユタン星人',
     'maker': 'ぷろろーぐ',
     'bpm': 134,
