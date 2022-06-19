@@ -470,4 +470,18 @@ const charts = [
     'url': 'http://pw25.g2.xrea.com/nncosmo/',
     'remark': '',
   },
+  {
+    'level': '3',
+    'title': 'Say A Vengeance Feat. Jenga (2014 Update)',
+    'difName': 'Kirizma',
+    'artist': 'ETIA.',
+    'maker': 'Cie',
+    'bpm': 185,
+    'toolDif': 2.56,
+    'noteNum': 205,
+    'duration': '2:14',
+    'scoreId': 0,
+    'url': 'https://terz3787.sakura.ne.jp/danoni/sav_kr.html',
+    'remark': '',
+  },
 ]
