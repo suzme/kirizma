@@ -430,4 +430,18 @@ const charts = [
     'url': 'http://pw25.g2.xrea.com/nncosmo/',
     'remark': '',
   },
+  {
+    'level': '6',
+    'title': 'Accept or Alone',
+    'difName': 'ALTERNATIVE',
+    'artist': 'ナカノトモユキ(lyric:hanaco)',
+    'maker': 'decresc.',
+    'bpm': 225,
+    'toolDif': 9.35,
+    'noteNum': 500,
+    'duration': '2:10',
+    'scoreId': 1,
+    'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_20.html',
+    'remark': '',
+  },
 ]
