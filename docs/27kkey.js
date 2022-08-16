@@ -629,4 +629,18 @@ const charts = [
     'url': 'http://www.omission0.com/danoni/223-wakaranai/',
     'date': '2022/08/14',
   },
+  {
+    'level': '3',
+    'title': 'ワスレナ',
+    'difName': 'Normal',
+    'artist': '夜烏P・エメ',
+    'maker': 'apoi',
+    'bpm': 150,
+    'toolDif': 3.74,
+    'noteNum': 290,
+    'duration': '2:43',
+    'scoreId': 0,
+    'url': 'https://apoi108.sakura.ne.jp/danoni/kirizma/wasurena.html',
+    'date': '2022/08/15',
+  },
 ]
