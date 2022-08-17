@@ -445,7 +445,7 @@ const charts = [
     'remark': '',
   },
   {
-    'level': '6',
+    'level': '7',
     'title': '一年に一度の☆いちごふぇすてぃばる♪',
     'difName': 'ALTERNATIVE',
     'artist': '龍崎一(from Losstime Life)',
