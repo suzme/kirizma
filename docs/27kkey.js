@@ -539,7 +539,7 @@ const charts = [
     'duration': '2:52',
     'scoreId': 0,
     'url': 'http://pw25.g2.xrea.com/nw/',
-    'remark': '',
+    'remark': '数字キーあり',
     'date': '2022/08/13',
   },
   {
