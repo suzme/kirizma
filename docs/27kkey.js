@@ -403,7 +403,7 @@ const charts = [
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_16.html',
   },
   {
-    'level': '6',
+    'level': '7',
     'title': 'Dance Doll Dream',
     'difName': 'REGULAR',
     'artist': 'daisan feat.えみゅう。',
