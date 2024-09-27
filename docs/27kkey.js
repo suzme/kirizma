@@ -749,7 +749,7 @@ const charts = [
     'date': '2022/9/21',
   },
   {
-    'level': '2',
+    'level': '3',
     'title': 'blue ray',
     'difName': 'Romaji',
     'artist': 'SHIKI',
