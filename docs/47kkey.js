@@ -195,7 +195,7 @@ const charts = [
     'url': 'https://mfv2.sakura.ne.jp/do/_Cah-m/?id=krzm_kataomoi',
   },
   {
-    'level': '3',
+    'level': '2',
     'title': '未来の歌',
     'difName': 'glr@j',
     'artist': 'malo',

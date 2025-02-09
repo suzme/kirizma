@@ -39,7 +39,7 @@ const charts = [
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_08.html',
   },
   {
-    'level': '3',
+    'level': '2',
     'title': '未来の歌',
     'difName': 'Kirizma',
     'artist': 'malo',
