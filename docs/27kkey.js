@@ -13,7 +13,7 @@ const charts = [
     'url': 'https://mfv2.sakura.ne.jp/do/main/?id=kimigayo',
   },
   {
-    'level': '3',
+    'level': '2',
     'title': 'シャイニングスター',
     'difName': 'Special',
     'artist': '魔王魂',
@@ -91,7 +91,7 @@ const charts = [
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_04.html',
   },
   {
-    'level': '4',
+    'level': '3',
     'title': 'サクライロフワリ',
     'difName': 'Kirizma',
     'artist': 'カラフル・サウンズ・ポート',
@@ -325,7 +325,7 @@ const charts = [
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_11.html',
   },
   {
-    'level': '5',
+    'level': '4',
     'title': '魔神',
     'difName': 'REGULAR',
     'artist': '403',
@@ -364,7 +364,7 @@ const charts = [
     'url': 'http://avectristesse.sakura.ne.jp/krzm/danoni/krzm_14.html',
   },
   {
-    'level': '10',
+    'level': '11',
     'title': 'アンチクロロベンゼン',
     'difName': 'Special',
     'artist': 'ガルナ(オワタＰ)',
@@ -457,7 +457,7 @@ const charts = [
     'remark': '',
   },
   {
-    'level': '9',
+    'level': '8',
     'title': '猫猫的宇宙論',
     'difName': 'Very Hard',
     'artist': 'ナユタン星人',
@@ -616,7 +616,7 @@ const charts = [
     'date': '2022/08/13',
   },
   {
-    'level': '9',
+    'level': '10',
     'title': '「ちょっと何言ってるのか分からない」のうた',
     'difName': 'Kirizma',
     'artist': '針スピ子',
@@ -779,7 +779,7 @@ const charts = [
     'date': '2022/9/23',
   },
   {
-    'level': '5',
+    'level': '6',
     'title': '選択',
     'difName': 'REGULAR',
     'artist': 'アベ ヒビキ(from 独り音)',
@@ -824,7 +824,7 @@ const charts = [
     'date': '2023/2/11',
   },
   {
-    'level': '9',
+    'level': '8',
     'title': 'ガール☆ミーツ☆ボーイ',
     'difName': 'Very Hard',
     'artist': 'daniwell',
@@ -854,7 +854,7 @@ const charts = [
     'date': '2023/2/11',
   },
   {
-    'level': '6',
+    'level': '5',
     'title': '7150日',
     'difName': 'Hard',
     'artist': '瀬名航',
@@ -884,7 +884,7 @@ const charts = [
     'date': '2023/2/11',
   },
   {
-    'level': '3',
+    'level': '2',
     'title': 'ときめき☆ラビリンス',
     'difName': 'Normal',
     'artist': '魔王魂',
