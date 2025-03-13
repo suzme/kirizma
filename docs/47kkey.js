@@ -905,7 +905,7 @@ const charts = [
     'scoreId': 1,
     'url': 'https://vorhandensein.sakura.ne.jp/danoni/375k_leaderia/',
     'remark': '',
-    'date': '',
+    'date': '2024/12/31',
   },
   {
     'level': '9',
