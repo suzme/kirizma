@@ -940,7 +940,7 @@ const charts = [
     'duration': '3:10',
     'scoreId': 0,
     'url': 'http://www.omission0.com/danoni/261-zundamon_k/',
-    'remark': '',
+    'remark': '数字キーあり',
     'date': '2024/1/3',
   },
   {
